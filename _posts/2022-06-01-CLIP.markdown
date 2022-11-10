@@ -4,9 +4,8 @@ title:  "Understanding CLIP Robustness"
 date:   2022-06-01 22:21:59 +00:00
 image: /images/CLIP.png
 categories: research
-author: "Yuri Galindo"
 venue: "The Art of Robustness: <strong>CVPR Workshop</strong>"
-authors: "<strong>Leonid Keselman</strong>, Fábio A. Faria"
+authors: "<strong>Yuri Galindo</strong>, Fábio A. Faria"
 arxiv: https://artofrobust.github.io/short_paper/19.pdf
 ---
 
