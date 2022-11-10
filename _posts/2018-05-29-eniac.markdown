@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Deep Transfer Learning for Meteor Detection"
+date:   2018-05-29 22:21:59 +00:00
+image: /images/meteor.png
+categories: research
+authors: "<strong>Yuri Galindo</strong>, Ana Carolina Lorena"
+venue: "National Encounter of Artificial Intelligence (ENIAC)"
+arxiv: https://sol.sbc.org.br/index.php/eniac/article/view/4445
+---
+
+In this paper, a pre-trained deep Convolutional Neural Network is applied to the problem of detecting meteors. Trained with limited data, the best model achieved an error rate of 0.04 and an F1 score of 0.94. Different approaches to perform transfer learning are tested, revealing that the choice of a proper pre-training dataset can provide better off-the-shelf features and lead to better results, and that the use of very deep representations for transfer learning does not worsen performance for Deep Residual Networks.

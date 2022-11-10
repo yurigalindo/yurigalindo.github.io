@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Monitoring Night Skies with Deep Learning"
+date:   2020-05-29 22:21:59 +00:00
+image: /images/night.png
+categories: research
+authors: "<strong>Yuri Galindo</strong>, Marcelo De Cicco, Marcos G. Quiles, Ana Carolina Lorena"
+venue: "International Conference on Neural Information Processing (ICONIP)"
+arxiv: https://link.springer.com/chapter/10.1007/978-3-030-63820-7_53
+code_hidden: https://github.com/yurigalindo/DeepLearningMeteors
+---
+
+Received a grant to develop a model for detecting meteors in camera images. Proposed training and testing on separate regions to account for distribution shift. Used confidence calibration to select 60\% of the images and obtain 98\% accuracy in this subset.Presented at the Latin American Meeting of Artificial Intelligence and published  at ICONIP.
