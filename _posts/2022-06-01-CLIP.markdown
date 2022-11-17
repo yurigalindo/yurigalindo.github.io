@@ -9,6 +9,6 @@ authors: "<strong>Yuri Galindo</strong>, Fábio A. Faria"
 arxiv: https://artofrobust.github.io/short_paper/19.pdf
 ---
 
-Tested hypotheses for the lack of robustness of neural networks with the CLIP model. Showed that reliance on non-robust features may not be related to natural distribution shift robustness. Showed that use of high frequency information may be related to natural distribution shift robustness.
+Tested hypotheses for the lack of robustness of neural networks with the CLIP model. Showed that use of high frequency information was related to natural distribution shift robustness. Found that reliance on non-robust features was not correlated with natural distribution shift robustness. 
 
 
