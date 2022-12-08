@@ -10,4 +10,4 @@ arxiv: https://link.springer.com/chapter/10.1007/978-3-030-63820-7_53
 code_hidden: https://github.com/yurigalindo/DeepLearningMeteors
 ---
 
-Meteor detection on the camera network for meteor surveillance managed by the <a href="https://press.exoss.org/ ">EXOSS Project</a>. Proposed training and testing on separate regions to account for distribution shift. Used confidence calibration to select the 60\% most confident images and obtain 98\% accuracy in this subset.
+Meteor detection on the camera network for meteor surveillance managed by the <a href="https://press.exoss.org/ ">EXOSS Project</a>. Proposed training and testing on separate regions to account for distribution shift. Used confidence calibration to select the 60% most confident images and obtain 98% accuracy in this subset.
