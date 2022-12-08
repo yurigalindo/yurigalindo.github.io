@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Placeholder"
+title:  "Work In Progress"
 date:   2022-06-04 22:21:59 +00:00
 image: /images/toy.png
 categories: research
 authors: "<strong>Yuri Galindo</strong>, Vaishnavh Nagarajan"
 venue: "pre-print"
-arxiv: placeholder
+arxiv_not: placeholder
 code: https://github.com/yurigalindo/LayerReweightingToy
 ---
 Researched simplicity bias: the tendency of neural networks to learn only the simplest features. Showed that neural networks can actually learn more complex features, although with smaller weights. Found that retraining the last layer can mitigate this simplicity bias only under some conditions.
