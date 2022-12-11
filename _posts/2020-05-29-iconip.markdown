@@ -6,7 +6,7 @@ image: /images/night.png
 categories: research
 authors: "<strong>Yuri Galindo</strong>, Marcelo De Cicco, Marcos G. Quiles, Ana Carolina Lorena"
 venue: "International Conference on Neural Information Processing (ICONIP)"
-arxiv: https://link.springer.com/chapter/10.1007/978-3-030-63820-7_53
+arxiv: /pdfs/ICONIP.pdf
 code_hidden: https://github.com/yurigalindo/DeepLearningMeteors
 ---
 
