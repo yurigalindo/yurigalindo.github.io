@@ -9,4 +9,4 @@ venue: "pre-print"
 arxiv_not: placeholder
 code: https://github.com/yurigalindo/LayerReweightingToy
 ---
-Researching simplicity bias. We find that models learn something about the geometry of the dataset besides the simple feature; that Last Layer Retraining can be reproduced on toy datasets in limited conditions; that the complex feature is encoded inside the simple feature, rather than having neurons for the complex feature; and that the complex feature is learned later in training, and that its gradients come primarily from noisy points.
+Researching simplicity bias: the tendency of neural networks to learn only the simplest features. We find that models learn something about the geometry of the dataset besides the simple feature; that Last Layer Retraining can be reproduced on toy datasets in limited conditions; that the complex feature is encoded inside the simple feature, rather than having neurons for the complex feature; and that the complex feature is learned later in training, and that its gradients come primarily from noisy points.
